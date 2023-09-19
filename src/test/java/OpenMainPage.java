@@ -1,7 +1,6 @@
 import com.codeborne.selenide.Configuration;
 import io.cucumber.java.en.Given;
 import org.junit.jupiter.api.BeforeAll;
-import org.junit.jupiter.api.BeforeEach;
 
 import static com.codeborne.selenide.Selenide.open;
 

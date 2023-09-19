@@ -1,5 +1,5 @@
 Feature: Main page 'https://skillfactory.ru/' is open
-  # Проверка того, что главная страница открывается
+  #Проверка того, что главная страница открывается
   Scenario: Heading of the the Main page is visible
     Given Main page "https://skillfactory.ru/" is open
     Then Heading is visible
